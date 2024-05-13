@@ -1,0 +1,1 @@
+This Data Anaylsis was preformed using Logistic Regression & KNN Classification to determine the probability of diabetes within the clinical setting based on health factors and indications within the medical setting. With the implentation of hyperparameter tuning an efficacy of 96.03% accuracy was achieved in the predictability using these tools.
